@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCustomMakeManager
+Name=LeetCode_83_Remove_Duplicates_from_Sorted_List
